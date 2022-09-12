@@ -18,7 +18,7 @@ _mysqlTablePassword="minhasenhamysql!"_ ## Adicione a senha que deseja utilizar 
 **Realizado testes na VPS digital Ocean com 2gb de memoria _maquinas com menos de 2gb de memoria não roda o build do frontend_**
         digite no prompt de comando da sua VPS:
 
-> git clone https://github.com/altemirjosecoelho/whaticket-mult-Intalador-rapido-vps.git instalador
+> git clone https://github.com/ronaldorendadigital/mult_inst_whatende instalador
 > 
 > cd instalador
 > 
